@@ -2,4 +2,3 @@ student record monitoring/management system is a file structure mini project usi
 the username and password to execute the project is as follows:
 username:SK
 password:1234
-your welcome!!!
