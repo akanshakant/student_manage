@@ -1,1 +1,1 @@
-# student_manage
+# student_management system
